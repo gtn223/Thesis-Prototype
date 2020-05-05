@@ -1,3 +1,3 @@
 # Thesis-Prototype
 
-#built in Unity 2018, mandelbrot shader
+# Built in Unity 2018, mandelbrot shader
